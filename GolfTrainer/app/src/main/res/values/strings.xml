@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GolfTrainer</string>
+
+    //Bottom screens
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="history">History</string>
+</resources>
